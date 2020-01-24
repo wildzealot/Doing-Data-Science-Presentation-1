@@ -327,7 +327,7 @@ market
 ```
 
 ```{r}
-                                                Conclusion
+   #                                             Conclusion
   # In summary, the United States has a large and thriving collection of breweries scattered throughout the states. Their are some states where breweries are very prominent. In contrast there are States where there may be only a single brewery. All of the information listed above can be used to increase the sale of beer products. It can also be used to increase the current level of efficiency relted to beer production. For instance, states that already have a high number of breweries may or may not be prime candidates for larger shipments of domestic beer from neighboring States. 
 ```
 
